@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(to bottom, #facc15, #f472b6);
+  background: #f9fafb;
   margin: 0;
   padding: 0;
   color: #1f2937;
@@ -9,15 +9,17 @@ body {
 .game-container {
   text-align: center;
   padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #fcd34d;
+  background: #f3f4f6;
   padding: 10px 20px;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 
@@ -26,19 +28,20 @@ body {
   font-size: 1.2rem;
 }
 
-.boss-section {
-  margin: 20px 0;
+.boss-area {
+  margin: 30px 0;
 }
 
 #boss-img {
-  width: 200px;
-  animation: shake 1s infinite alternate ease-in-out;
+  width: 300px;
+  max-width: 100%;
+  animation: subtleFloat 3s ease-in-out infinite;
 }
 
 #boss-health-bar {
   width: 80%;
   height: 25px;
-  background: #f3f4f6;
+  background: #e5e7eb;
   border: 2px solid #000;
   border-radius: 12px;
   margin: 10px auto;
@@ -54,10 +57,9 @@ body {
 #boss-dialogue {
   font-style: italic;
   margin-top: 10px;
-  background: rgba(0,0,0,0.05);
   padding: 8px;
   border-radius: 8px;
-  animation: bounce 2s infinite;
+  color: #4b5563;
 }
 
 #question-box {
@@ -68,11 +70,12 @@ body {
   display: block;
   background: #e0f2fe;
   margin: 10px auto;
-  padding: 10px 20px;
+  padding: 12px 24px;
   width: 60%;
   border-radius: 10px;
   cursor: pointer;
   transition: background 0.3s;
+  font-size: 1.05rem;
 }
 
 .choice:hover {
@@ -83,24 +86,14 @@ body {
 #game-over {
   display: none;
   margin-top: 50px;
-  animation: fadein 1s ease-in-out forwards;
 }
 
 .hidden {
   display: none;
 }
 
-@keyframes shake {
-  0% { transform: rotate(-1deg); }
-  100% { transform: rotate(1deg); }
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-6px); }
-}
-
-@keyframes fadein {
-  from { opacity: 0; }
-  to { opacity: 1; }
+@keyframes subtleFloat {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
 }
