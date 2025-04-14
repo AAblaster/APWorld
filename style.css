@@ -33,7 +33,7 @@ body {
 }
 
 #boss-img {
-  width: 300px;
+  width: 150px;
   max-width: 100%;
   animation: subtleFloat 3s ease-in-out infinite;
 }
