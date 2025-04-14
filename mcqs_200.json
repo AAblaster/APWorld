@@ -1,13 +1,163 @@
 [
 {
-"prompt": "In what ways did the Columbian Exchange facilitate both demographic growth and decline across different continents?",
+"prompt": "How did the environmental conditions of the Andes affect the development of the Inca Empire's agricultural practices and social structures?",
+"options": [
+"They promoted the development of large-scale plantation agriculture.",
+"They led to the abandonment of agriculture in favor of pastoral nomadism.",
+"They necessitated innovative agricultural techniques like terracing and a highly organized labor system.",
+"They had no significant impact on Inca agricultural practices or social structures."
+],
+"answer": 0
+},
+{
+"prompt": "To what extent did the Mongol Empire facilitate cultural exchange and diffusion between Europe and Asia during the 13th and 14th centuries?",
+"options": [
+"It completely isolated Europe and Asia, preventing any cultural exchange.",
+"It had a limited impact on cultural exchange due to its focus on military conquest.",
+"It fostered significant exchange of ideas, technologies, and artistic styles across its vast territories.",
+"It only facilitated the spread of Mongol culture to conquered regions."
+],
+"answer": 1
+},
+{
+"prompt": "In what ways did the Black Death impact European feudalism and the social hierarchy in the 14th century?",
+"options": [
+"It strengthened feudalism by reinforcing the power of the nobility.",
+"It had no significant impact on European feudalism or the social hierarchy.",
+"It led to labor shortages, peasant revolts, and a decline in the manorial system, weakening feudalism.",
+"It resulted in a more equitable distribution of wealth and power within European society."
+],
+"answer": 2
+},
+{
+"prompt": "How did the development of trans-Saharan trade routes impact the political and economic structures of West African kingdoms like Mali and Ghana?",
+"options": [
+"It led to the decline of West African kingdoms due to increased exposure to foreign invaders.",
+"It had no significant impact on the political or economic structures of West African kingdoms.",
+"It facilitated the exchange of goods, ideas, and religious beliefs, leading to increased wealth and political power.",
+"It solely benefited North African traders, with no positive effects for West African kingdoms."
+],
+"answer": 3
+},
+{
+"prompt": "What role did the Islamic Golden Age play in the preservation and advancement of knowledge during the medieval period?",
+"options": [
+"It led to the suppression of scientific inquiry and the destruction of ancient texts.",
+"It had no significant impact on the preservation or advancement of knowledge.",
+"It fostered intellectual exchange, translation of classical texts, and original contributions to science, mathematics, and philosophy.",
+"It solely focused on religious studies and had no interest in secular knowledge."
+],
+"answer": 0
+},
+{
+"prompt": "Analyze the impact of the Crusades on long-term relations between the Islamic world and Europe.",
+"options": [
+"They fostered lasting peace and cooperation between the Islamic world and Europe.",
+"They had no significant impact on relations between the Islamic world and Europe.",
+"They intensified religious animosity, spurred further conflicts, and left a legacy of mistrust.",
+"They led to the complete cultural assimilation of Europe by the Islamic world."
+],
+"answer": 1
+},
+{
+"prompt": "In what ways did the Byzantine Empire serve as a bridge between the classical world and the emerging cultures of Europe?",
+"options": [
+"It actively suppressed classical learning and promoted cultural isolation.",
+"It had no significant impact on the cultural development of Europe.",
+"It preserved and transmitted classical knowledge, legal traditions, and artistic styles to Western Europe.",
+"It primarily focused on expanding its territory and had little interest in cultural matters."
+],
+"answer": 2
+},
+{
+"prompt": "How did the development of printing technology impact the spread of ideas and literacy in Europe during the Renaissance?",
+"options": [
+"It hindered the spread of ideas by making books more expensive and difficult to produce.",
+"It had no significant impact on literacy rates or the dissemination of knowledge.",
+"It enabled the mass production of books, leading to increased literacy, wider access to information, and the spread of new ideas.",
+"It primarily benefited the wealthy elite, with little impact on the general population."
+],
+"answer": 3
+},
+{
+"prompt": "To what extent did the Mayan civilization's advancements in mathematics and astronomy contribute to its complex calendar system and agricultural practices?",
+"options": [
+"Mayan civilization did not make significant advancements in mathematics or astronomy.",
+"Their calendar system and agricultural practices were unrelated to their mathematical or astronomical knowledge.",
+"Their sophisticated understanding of mathematics and astronomy allowed them to develop a highly accurate calendar and predict optimal planting times.",
+"Their calendar system was solely based on religious beliefs and had no practical applications."
+],
+"answer": 0
+},
+{
+"prompt": "How did the agricultural innovations of the Tang and Song dynasties, such as Champa rice, affect Chinese society and its global influence?",
+"options": [
+"They led to widespread famine and population decline in China.",
+"They had no significant impact on Chinese society or its global influence.",
+"They supported population growth, urbanization, and economic expansion, enhancing China's cultural and economic influence.",
+"They primarily benefited foreign traders, with little impact on the Chinese population."
+],
+"answer": 1
+},
+{
+"prompt": "Compare the social structures of feudal Europe and feudal Japan. What similarities and differences existed in their systems of governance, social hierarchy, and economic organization?",
+"options": [
+"Feudal Europe and Japan had identical social structures.",
+"Social structures had no impact on governance or economic organization.",
+"Both systems featured decentralized political authority and a hierarchical social structure based on land ownership, but they differed in cultural values and the roles of various social classes.",
+"Feudal systems solely led to economic stagnation and social inequality."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the role of the Silk Road in facilitating the exchange of goods, ideas, and technologies between East and West during the medieval period.",
+"options": [
+"The Silk Road had no impact on cultural or technological exchange.",
+"The Silk Road solely facilitated the spread of disease.",
+"The Silk Road served as a conduit for the exchange of diverse goods, religious beliefs, and technological innovations between East and West.",
+"The Silk Road solely benefited nomadic groups, with no impact on settled societies."
+],
+"answer": 3
+},
+{
+"prompt": "How did the spread of Islam influence the development of new cultural and intellectual centers in cities like Baghdad, Cordoba, and Timbuktu?",
+"options": [
+"Islam hindered the development of cultural and intellectual centers.",
+"Islam had no impact on urban development.",
+"Islam fostered a vibrant intellectual climate, leading to the establishment of centers of learning and cultural exchange in these cities.",
+"Islam solely focused on religious matters and had no interest in secular knowledge."
+],
+"answer": 0
+},
+{
+"prompt": "To what extent did the Viking expansion impact the political and economic landscape of Europe during the 9th and 10th centuries?",
+"options": [
+"Viking expansion had no significant impact on Europe.",
+"Viking expansion solely led to economic prosperity.",
+"Viking raids and settlements disrupted existing political structures, facilitated trade, and contributed to the development of new political entities.",
+"Viking expansion solely led to the decline of urban centers."
+],
+"answer": 1
+},
+{
+"prompt": "Compare and contrast the political systems of the Aztec and Inca empires. How did their methods of governance, territorial administration, and economic organization differ?",
+"options": [
+"The Aztec and Inca empires had identical political systems.",
+"Political systems had no impact on territorial administration or economic organization.",
+"Both empires were highly centralized, but they differed in their methods of territorial administration, tribute collection, and social control.",
+"Empires solely led to the decline of local cultures and traditions."
+],
+"answer": 2
+},
+{
+"prompt": "How did the Columbian Exchange facilitate both demographic growth and decline across different continents?",
 "options": [
 "It uniformly increased populations worldwide due to new food sources.",
 "It led to demographic shifts only in Europe, with no significant impact elsewhere.",
 "It introduced diseases that decimated indigenous populations while also enabling new agricultural practices that supported growth in Europe and Africa.",
 "It solely caused the decline of populations in the Americas and had no positive impacts on global demographics."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "How did the development of maritime empires by European powers in the 15th-18th centuries affect existing trade networks in the Indian Ocean?",
@@ -17,7 +167,7 @@
 "European powers integrated into existing trade networks, often using military force to establish dominance and control key routes.",
 "European powers focused solely on establishing trade routes in the Atlantic, ignoring the Indian Ocean."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "What role did coerced labor systems, such as chattel slavery and indentured servitude, play in the economic development of the Americas during the period 1450-1750?",
@@ -47,7 +197,7 @@
 "It led to increased conflict and competition over trade routes, but also facilitated the exchange of ideas and technologies.",
 "It had no impact on trade or cultural exchange, as the Ottoman Empire was primarily focused on internal affairs."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "What were the primary motivations behind European exploration and colonization in the Americas during the 15th-18th centuries?",
@@ -57,7 +207,7 @@
 "A complex mix of economic, political, and religious factors, including the pursuit of wealth, power, and religious conversion.",
 "Driven by a need to find new lands to accommodate Europe's growing population."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "How did the introduction of new crops and animals through the Columbian Exchange impact agricultural practices and food supplies in both the Americas and Europe?",
@@ -67,7 +217,7 @@
 "It diversified agricultural practices, increased food supplies, and supported population growth in both regions, although with varying consequences.",
 "It only benefited Europe, while the Americas experienced agricultural decline."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "In what ways did the expansion of maritime trade networks during the period 1450-1750 contribute to the growth of commercial centers and urban areas?",
@@ -87,7 +237,7 @@
 "It revolutionized warfare, enabling states with access to gunpowder weapons to expand their territories and consolidate power.",
 "It primarily benefited non-state actors, who used gunpowder weapons to challenge state authority."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "What role did religious syncretism play in the spread of Christianity and other religions during the period 1450-1750?",
@@ -97,7 +247,7 @@
 "Religious syncretism facilitated the spread of religions by blending indigenous beliefs with new religious traditions.",
 "Religious syncretism solely led to the decline of traditional religious practices."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Analyze the effects of the Silver Trade on the global economy during the 16th and 17th centuries. How did the flow of silver from the Americas to Europe and Asia reshape economic systems and power dynamics?",
@@ -107,7 +257,7 @@
 "It fueled European mercantilism, facilitated trade with Asia, and led to inflation and social changes in various regions.",
 "It solely benefited the Americas, leading to their economic dominance."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Compare and contrast the methods used by different European powers (e.g., Spain, Portugal, England, France) to establish and maintain their colonial empires in the Americas. How did their approaches differ in terms of governance, economic exploitation, and interactions with indigenous populations?",
@@ -127,7 +277,7 @@
 "It caused significant demographic losses, increased warfare, and hindered economic development in West Africa.",
 "West African societies actively encouraged and benefited from the slave trade."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Evaluate the role of technological innovations in facilitating European exploration and expansion during the 15th and 16th centuries. How did advancements in shipbuilding, navigation, and weaponry contribute to the establishment of maritime empires?",
@@ -137,7 +287,7 @@
 "Advancements in technology were critical in enabling long-distance voyages, conquering new territories, and establishing trade networks.",
 "Technological innovations were primarily developed by non-European societies."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Analyze the causes and consequences of the Scientific Revolution in Europe during the 16th and 17th centuries. How did new scientific discoveries and methods challenge traditional beliefs and contribute to broader intellectual and social changes?",
@@ -147,7 +297,7 @@
 "It led to new ways of thinking about the natural world, challenged religious dogma, and contributed to the Enlightenment.",
 "Scientific discoveries were solely driven by religious motivations."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "In what ways did the Mughal Empire's policies under Akbar promote religious tolerance and cultural synthesis in South Asia? What were the long-term effects of these policies on the empire's stability and social harmony?",
@@ -167,7 +317,7 @@
 "The Qing Dynasty's restrictive trade policies limited foreign influence but also hindered China's economic and technological progress.",
 "China became the world's leading economic power due to its open trade policies."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Assess the impact of the Enlightenment on political thought and revolutionary movements in the Americas and Europe during the late 18th century. How did Enlightenment ideas about natural rights, popular sovereignty, and limited government influence the American and French Revolutions?",
@@ -177,7 +327,7 @@
 "Enlightenment ideas provided intellectual justifications for revolution and inspired new forms of government based on individual rights and democratic principles.",
 "Enlightenment ideas were used to justify authoritarian rule."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Compare and contrast the causes and outcomes of the American and French Revolutions. In what ways were these revolutions similar or different in terms of their social, political, and economic goals?",
@@ -187,7 +337,7 @@
 "Both revolutions sought to overthrow existing power structures, but they differed in their specific goals and the extent of social transformation they achieved.",
 "Revolutions solely led to the rise of dictatorships."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Evaluate the role of nationalism in shaping political boundaries and conflicts during the 19th century. How did nationalist movements contribute to the unification of Italy and Germany, as well as to tensions and conflicts in other parts of Europe?",
@@ -207,7 +357,7 @@
 "The Haitian Revolution was unique in its focus on ending slavery and achieving equality for people of African descent.",
 "The Haitian Revolution was solely driven by economic grievances."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Analyze the long-term effects of the Industrial Revolution on global economic and social structures. How did industrialization transform patterns of production, urbanization, and social class, and what were its environmental consequences?",
@@ -217,7 +367,7 @@
 "Industrialization led to unprecedented economic growth and social change, but also created new forms of inequality and environmental degradation.",
 "Industrialization solely led to the decline of cities."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Compare and contrast the processes of industrialization in different regions of the world, such as Europe, the United States, and Japan. What factors contributed to their varying rates of industrial growth and their different approaches to economic development?",
@@ -227,7 +377,7 @@
 "Different regions experienced industrialization in distinct ways due to factors such as government policies, access to resources, and cultural attitudes.",
 "Industrialization solely led to the decline of traditional industries."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Evaluate the impact of imperialism on colonized societies in Africa and Asia during the 19th and early 20th centuries. How did European colonization affect political systems, economic structures, and cultural identities in these regions?",
@@ -247,7 +397,7 @@
 "The Opium Wars exposed China's vulnerability to Western powers and led to unequal treaties that favored British economic interests.",
 "The Opium Wars solely benefited China's economy."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Analyze the causes and consequences of World War I. How did factors such as nationalism, imperialism, and alliance systems contribute to the outbreak of the war, and what were its long-term effects on the global political order?",
@@ -257,7 +407,7 @@
 "World War I was caused by a complex interplay of factors and resulted in widespread death, destruction, and political upheaval.",
 "World War I solely benefited the economies of all nations involved."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Compare and contrast the Russian Revolution of 1917 with other revolutionary movements of the 20th century. What made the Russian Revolution unique in terms of its ideology, leadership, and long-term consequences?",
@@ -267,7 +417,7 @@
 "The Russian Revolution was unique in its communist ideology and its establishment of a totalitarian regime.",
 "Revolutions solely led to the spread of democracy."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Evaluate the impact of the Great Depression on global economic and political systems during the 1930s. How did the economic crisis contribute to the rise of extremist ideologies and the outbreak of World War II?",
@@ -287,7 +437,7 @@
 "World War II was caused by a combination of factors and resulted in immense human suffering, the reshaping of political boundaries, and the beginning of the Cold War.",
 "World War II solely benefited the economies of all nations involved."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "In what ways did the Cold War shape global politics and influence conflicts in various regions of the world during the second half of the 20th century?",
@@ -297,7 +447,7 @@
 "The Cold War led to a bipolar world order, proxy wars, and the constant threat of nuclear annihilation.",
 "The Cold War solely benefited developing nations."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "How did decolonization movements in Africa and Asia transform the global political landscape after World War II? What challenges did newly independent nations face in terms of economic development, political stability, and social cohesion?",
@@ -307,7 +457,7 @@
 "Decolonization led to the creation of new nations but also presented numerous challenges related to governance, development, and social divisions.",
 "Decolonization solely benefited former colonial powers."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Analyze the causes and consequences of the collapse of the Soviet Union in 1991. How did internal weaknesses, economic stagnation, and political reforms contribute to the disintegration of the Soviet empire, and what were its long-term effects on Russia and the world?",
@@ -327,7 +477,7 @@
 "Globalization has led to increased economic integration, cultural exchange, and political cooperation, but also to concerns about inequality, cultural homogenization, and loss of national sovereignty.",
 "Globalization solely benefits multinational corporations."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Evaluate the role of international organizations such as the United Nations and the World Trade Organization in addressing global challenges such as poverty, conflict, and environmental degradation. What are the strengths and limitations of these organizations?",
@@ -337,7 +487,7 @@
 "International organizations provide forums for cooperation and address global issues, but they also face challenges related to funding, enforcement, and political influence.",
 "International organizations solely benefit wealthy nations."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "How have technological advancements in communication and transportation transformed patterns of migration and cultural exchange in the modern world?",
@@ -347,7 +497,7 @@
 "Technological advancements have facilitated greater mobility and interconnectedness, leading to increased migration and cultural exchange.",
 "Technology solely leads to the decline of traditional cultures."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Analyze the causes and consequences of environmental degradation and climate change in the 21st century. How are human activities impacting the environment, and what are the potential social, economic, and political ramifications of these changes?",
@@ -367,7 +517,7 @@
 "Different development strategies have had varying degrees of success due to factors such as government policies, access to resources, and social conditions.",
 "Economic development solely benefits wealthy nations."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Evaluate the impact of terrorism and political violence on global security and international relations in the 21st century. How have terrorist groups and states used violence to achieve their goals, and what are the challenges of combating terrorism?",
@@ -377,7 +527,7 @@
 "Terrorism and political violence pose significant threats to global security and require complex strategies to address their root causes and prevent attacks.",
 "Military force solely solves the problem of terrorism."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "How has the rise of China as a global economic and political power reshaped the international order? What are the potential opportunities and challenges associated with China's growing influence?",
@@ -387,7 +537,7 @@
 "China's rise presents both opportunities for cooperation and challenges related to trade, security, and human rights.",
 "China's rise solely threatens the United States."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Analyze the causes and consequences of demographic shifts such as aging populations and migration patterns in different regions of the world. How are these demographic trends impacting social welfare systems, labor markets, and cultural identities?",
@@ -407,7 +557,7 @@
 "Technology can be a powerful tool for development, but it also presents challenges related to access, affordability, and digital literacy.",
 "Technology solely leads to cultural homogenization."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "In what ways are global health challenges such as pandemics, chronic diseases, and healthcare disparities shaping international relations and development policies?",
@@ -417,7 +567,7 @@
 "Global health challenges require international cooperation and have significant implications for development policies and resource allocation.",
 "Global health challenges solely affect developing nations."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Analyze the causes and consequences of growing income inequality within and between nations. How is inequality impacting social cohesion, political stability, and economic growth?",
@@ -427,7 +577,7 @@
 "Income inequality is increasing in many parts of the world and has negative consequences for social cohesion, political stability, and economic growth.",
 "Income inequality solely leads to social mobility."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "Evaluate the role of social movements and civil society organizations in advocating for human rights, social justice, and environmental protection in the 21st century. What are the strategies and challenges of these movements?",
@@ -447,7 +597,7 @@
 "Democratization is occurring in many parts of the world, but it also faces challenges related to corruption, instability, and cultural resistance.",
 "Democracy solely benefits Western nations."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Analyze the causes and consequences of armed conflicts and humanitarian crises in the 21st century. How are these conflicts impacting civilian populations, and what are the challenges of providing humanitarian assistance and promoting peace?",
@@ -457,7 +607,7 @@
 "Armed conflicts and humanitarian crises are causing immense suffering and require coordinated international efforts to provide assistance and promote peace.",
 "Military force solely solves the problem of armed conflict."
 ],
-"answer": 2
+"answer": 0
 },
 {
 "prompt": "Evaluate the impact of cultural exchange and hybridization on global identities and social relations. How are cultural interactions shaping individual and collective identities, and what are the challenges of maintaining cultural diversity?",
@@ -467,7 +617,7 @@
 "Cultural exchange is leading to both the blending of cultures and the preservation of cultural diversity, but it also presents challenges related to cultural appropriation and identity politics.",
 "Cultural exchange solely benefits dominant cultures."
 ],
-"answer": 2
+"answer": 1
 },
 {
 "prompt": "How is the growing global population impacting resource availability, environmental sustainability, and social development? What are the potential consequences of continued population growth?",
@@ -487,7 +637,7 @@
 "Education is a critical tool for promoting positive change, but it also faces challenges related to funding, equity, and quality.",
 "Education solely benefits wealthy nations."
 ],
-"answer": 2
+"answer": 3
 },
 {
 "prompt": "Evaluate the impact of artificial intelligence and automation on labor markets, economic productivity, and social inequality. How are these technologies transforming the nature of work?",
@@ -497,6 +647,57 @@
 "Artificial intelligence and automation are transforming labor markets and economic productivity, but they also raise concerns about job displacement and social inequality.",
 "Technological advancements will solely solve all economic problems."
 ],
+"answer": 0
+},
+{
+"prompt": "What was the impact of the printing press on the Renaissance?",
+"options": [
+"Limited the spread of knowledge",
+"Increased the cost of books",
+"Facilitated the rapid spread of new ideas",
+"Had no effect on the Renaissance"
+],
+"answer": 1
+},
+{
+"prompt": "Which of the following was a major cause of the Protestant Reformation?",
+"options": [
+"The invention of the printing press",
+"The Black Death",
+"Widespread dissatisfaction with the Catholic Church",
+"The rise of absolute monarchies"
+],
 "answer": 2
-}
-]
+},
+{
+"prompt": "What was the main goal of European exploration during the Age of Discovery?",
+"options": [
+"To spread democracy",
+"To discover new trade routes and sources of wealth",
+"To promote religious tolerance",
+"To establish world peace"
+],
+"answer": 3
+},
+{
+"prompt": "How did the Columbian Exchange affect the Americas?",
+"options": [
+"It led to a population boom due to new crops.",
+"It had no impact on the Americas.",
+"It resulted in widespread disease and demographic collapse.",
+"It improved the standard of living for all indigenous peoples."
+],
+"answer": 0
+},
+{
+"prompt": "Which of the following best describes mercantilism?",
+"options": [
+"Free trade between nations",
+"Government regulation of the economy to increase national wealth",
+"A system of bartering goods and services",
+"Economic equality for all citizens"
+],
+"answer": 1
+},
+{
+"prompt": "Which of
