@@ -4,11 +4,11 @@ let health = 100;
 let timer = 60;
 let interval;
 const dialogueLines = [
-  "You call that an answer?",
-  "You will never pass the AP Exam!",
-  "I taught you better than this!",
+  "Carter Cope could do better than that!",
+  "When I was in Africa...",
+  "Oiling up is not an answer!",
   "Foolish student…",
-  "Try again, scholar!"
+  "It seems we are 5 minutes over the timer!"
 ];
 
 async function loadQuestions() {
