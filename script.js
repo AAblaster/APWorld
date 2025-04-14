@@ -38,7 +38,7 @@ function handleAnswer(correct) {
   if (correct) {
     health -= 10;
     document.getElementById("boss-health").style.width = `${health}%`;
-    document.getElementById("boss-dialogue").textContent = "Argh! Well done!";
+    document.getElementById("boss-dialogue").textContent = "I thought you were stupid😠!";
     if (health <= 0) {
       winGame();
       return;
