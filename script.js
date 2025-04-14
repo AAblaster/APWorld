@@ -8,7 +8,7 @@ const dialogueLines = [
   "You will never pass the AP Exam!",
   "I taught you better than this!",
   "Foolish student…",
-  "You'll need more than that!"
+  "Try again, scholar!"
 ];
 
 async function loadQuestions() {
@@ -70,7 +70,7 @@ function startTimer() {
 
 function loseGame() {
   document.getElementById("question-box").classList.add("hidden");
-  document.querySelector(".boss-section").classList.add("hidden");
+  document.querySelector(".boss-area").classList.add("hidden");
   document.getElementById("game-over").style.display = "block";
   document.getElementById("health-left").textContent = health;
 }
