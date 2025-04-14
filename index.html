@@ -8,29 +8,29 @@
 </head>
 <body>
   <div class="game-container">
-    <div class="header">
+    <header class="header">
       <h1>⚔️ AP World Boss Battle ⚔️</h1>
       <div id="timer">Time Left: 60</div>
-    </div>
+    </header>
 
-    <div class="boss-section">
+    <section class="boss-area">
       <img src="boss.png" alt="Boss" id="boss-img" />
       <div id="boss-health-bar">
         <div id="boss-health"></div>
       </div>
       <div id="boss-dialogue">Prepare to fail!</div>
-    </div>
+    </section>
 
-    <div id="question-box">
+    <section id="question-box">
       <h2 id="question"></h2>
       <div id="options"></div>
-    </div>
+    </section>
 
-    <div id="game-over" class="hidden">
+    <section id="game-over" class="hidden">
       <img src="gameover.png" alt="Game Over" />
       <h2>You’ve run out of time. The AP World boss has defeated you.</h2>
       <p>Boss Health Remaining: <span id="health-left"></span>%</p>
-    </div>
+    </section>
   </div>
 
   <script src="script.js"></script>
