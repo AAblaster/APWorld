@@ -1,51 +1,106 @@
 body {
-  font-family: sans-serif;
-  background: #f9fafb;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #facc15, #f472b6);
   margin: 0;
-  padding: 2rem;
+  padding: 0;
+  color: #1f2937;
 }
 
-.container {
-  max-width: 700px;
-  margin: auto;
-  background: #ffffff;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+.game-container {
   text-align: center;
+  padding: 2rem;
 }
 
-button {
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fcd34d;
   padding: 10px 20px;
-  background-color: #2563eb;
-  color: white;
-  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+#timer {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.boss-section {
+  margin: 20px 0;
+}
+
+#boss-img {
+  width: 200px;
+  animation: shake 1s infinite alternate ease-in-out;
+}
+
+#boss-health-bar {
+  width: 80%;
+  height: 25px;
+  background: #f3f4f6;
+  border: 2px solid #000;
+  border-radius: 12px;
+  margin: 10px auto;
+}
+
+#boss-health {
+  width: 100%;
+  height: 100%;
+  background: #dc2626;
+  transition: width 0.4s ease;
+}
+
+#boss-dialogue {
+  font-style: italic;
+  margin-top: 10px;
+  background: rgba(0,0,0,0.05);
+  padding: 8px;
   border-radius: 8px;
-  cursor: pointer;
-  font-size: 1rem;
+  animation: bounce 2s infinite;
 }
 
-button:hover {
-  background-color: #1d4ed8;
-}
-
-#quiz {
-  text-align: left;
-  margin-top: 2rem;
+#question-box {
+  margin-top: 30px;
 }
 
 .choice {
-  margin: 10px 0;
-  padding: 12px;
-  background: #f3f4f6;
-  border-radius: 6px;
+  display: block;
+  background: #e0f2fe;
+  margin: 10px auto;
+  padding: 10px 20px;
+  width: 60%;
+  border-radius: 10px;
   cursor: pointer;
+  transition: background 0.3s;
 }
 
-.choice.correct {
-  background-color: #a7f3d0;
+.choice:hover {
+  background: #38bdf8;
+  color: white;
 }
 
-.choice.incorrect {
-  background-color: #fecaca;
+#game-over {
+  display: none;
+  margin-top: 50px;
+  animation: fadein 1s ease-in-out forwards;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes shake {
+  0% { transform: rotate(-1deg); }
+  100% { transform: rotate(1deg); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
