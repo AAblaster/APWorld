@@ -86,6 +86,7 @@ body {
 #game-over {
   display: none;
   margin-top: 50px;
+  width: 400px;
 }
 
 .hidden {
