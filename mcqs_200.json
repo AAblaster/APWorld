@@ -1,2002 +1,502 @@
 [
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 1)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 2)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 3)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 4)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 5)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 6)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 7)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 8)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 9)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 10)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 11)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 12)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 13)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 14)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 15)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 16)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 17)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 18)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 19)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 20)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 21)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 22)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 23)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 24)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 25)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 26)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 27)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 28)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 29)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 30)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 31)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 32)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 33)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 34)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 35)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 36)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 37)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 38)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 39)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 40)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 41)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 42)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 43)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 44)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 45)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 46)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 47)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 48)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 49)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 50)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 51)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 52)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 53)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 54)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 55)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 56)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 57)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 58)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 59)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 60)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 61)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 62)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 63)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 64)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 65)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 66)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 67)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 68)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 69)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 70)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 71)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 72)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 73)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 74)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 75)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 76)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 77)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 78)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 79)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 80)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 81)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 82)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 83)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 84)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 85)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 86)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 87)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 88)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 89)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 90)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 91)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 92)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 93)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 94)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 95)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 96)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 97)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 98)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 99)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 100)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 101)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 102)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 103)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 104)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 105)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 106)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 107)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 108)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 109)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 110)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 111)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 112)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 113)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 114)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 115)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 116)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 117)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 118)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 119)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 120)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 121)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 122)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 123)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 124)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 125)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 126)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 127)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 128)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 129)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 130)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 131)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 132)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 133)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 134)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 135)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 136)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 137)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 138)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 139)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 140)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 141)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 142)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 143)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 144)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 145)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 146)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 147)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 148)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 149)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 150)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 151)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 152)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 153)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 154)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 155)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 156)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 157)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 158)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 159)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 160)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 161)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 162)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 163)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 164)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 165)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 166)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 167)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 168)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 169)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 170)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 171)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 172)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 173)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 174)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 175)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 176)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 177)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 178)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 179)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 180)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 181)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "How did the Song Dynasty's bureaucracy contribute to the weakening of the state? (Set 182)",
-    "options": [
-      "It limited access to education for the elite",
-      "It supported rebellion in the provinces",
-      "It expanded to the point of draining state resources",
-      "It led to excessive foreign influence in the court"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 183)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 184)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 185)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 186)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 187)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 188)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which best describes the practice of foot binding during the Song Dynasty? (Set 189)",
-    "options": [
-      "A form of punishment for criminals",
-      "A cultural practice signifying social status for elite women",
-      "A method used to train women for war",
-      "A way to strengthen women\u2019s mobility"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Which technological advancement allowed the Song Dynasty to lead in sea-based trade? (Set 190)",
-    "options": [
-      "Horse-drawn carriages",
-      "Gunpowder weapons",
-      "Compass and improved ship design",
-      "Telegraph systems"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What is Neo-Confucianism? (Set 191)",
-    "options": [
-      "A syncretic philosophy combining Confucianism, Daoism, and Buddhism",
-      "A form of Buddhism introduced from India",
-      "A military strategy used by the Song Dynasty",
-      "A type of religious government in China"
-    ],
-    "answer": 0
-  },
-  {
-    "prompt": "Why did the scholar gentry become the most influential social class in Song China? (Set 192)",
-    "options": [
-      "They controlled the majority of land in China",
-      "They were powerful military leaders",
-      "They were educated in Confucianism and filled government positions",
-      "They dominated religious institutions"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was one significant innovation during the Song Dynasty that contributed to increased agricultural productivity? (Set 193)",
-    "options": [
-      "The creation of steel plows",
-      "The development of the printing press",
-      "The introduction of Champa rice",
-      "The invention of gunpowder"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What role did Confucianism play in Song Dynasty China? (Set 194)",
-    "options": [
-      "It supported agricultural expansion",
-      "It encouraged political decentralization",
-      "It reinforced the imperial bureaucracy and family hierarchy",
-      "It was replaced by Daoist teachings"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 195)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 196)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 197)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  },
-  {
-    "prompt": "What allowed China to support a much larger population during the Song Dynasty? (Set 198)",
-    "options": [
-      "Widespread trade with Europe",
-      "Industrial use of coal",
-      "Massive irrigation and introduction of new rice strains",
-      "Political alliances with Southeast Asia"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "What was a key reason for the expansion of cities like Hangzhou during the Song period? (Set 199)",
-    "options": [
-      "Decline of agriculture",
-      "The rise of Confucianism",
-      "Commercialization and trade",
-      "Increased war and migration"
-    ],
-    "answer": 2
-  },
-  {
-    "prompt": "Why did many Chinese convert to Chan (Zen) Buddhism? (Set 200)",
-    "options": [
-      "It was enforced by the government",
-      "It combined meditation with native Daoist ideas",
-      "It replaced all other forms of Confucianism",
-      "It promoted the expansion of the military"
-    ],
-    "answer": 1
-  }
+{
+"prompt": "In what ways did the Columbian Exchange facilitate both demographic growth and decline across different continents?",
+"options": [
+"It uniformly increased populations worldwide due to new food sources.",
+"It led to demographic shifts only in Europe, with no significant impact elsewhere.",
+"It introduced diseases that decimated indigenous populations while also enabling new agricultural practices that supported growth in Europe and Africa.",
+"It solely caused the decline of populations in the Americas and had no positive impacts on global demographics."
+],
+"answer": 2
+},
+{
+"prompt": "How did the development of maritime empires by European powers in the 15th-18th centuries affect existing trade networks in the Indian Ocean?",
+"options": [
+"European powers completely replaced existing trade networks with their own.",
+"Existing trade networks were largely unaffected by the arrival of European powers.",
+"European powers integrated into existing trade networks, often using military force to establish dominance and control key routes.",
+"European powers focused solely on establishing trade routes in the Atlantic, ignoring the Indian Ocean."
+],
+"answer": 2
+},
+{
+"prompt": "What role did coerced labor systems, such as chattel slavery and indentured servitude, play in the economic development of the Americas during the period 1450-1750?",
+"options": [
+"Coerced labor systems hindered economic development by reducing productivity.",
+"Coerced labor systems were essential for the production of cash crops and the accumulation of wealth for European colonizers.",
+"Coerced labor systems were primarily used for domestic tasks and had little impact on large-scale agriculture.",
+"Coerced labor systems were gradually replaced by wage labor, leading to economic equality in the Americas."
+],
+"answer": 1
+},
+{
+"prompt": "In what ways did the Protestant Reformation challenge the political and social structures of Europe in the 16th century?",
+"options": [
+"It reinforced the authority of the Catholic Church and led to greater political stability.",
+"It had no significant impact on the political or social landscape of Europe.",
+"It led to religious wars, the fragmentation of political authority, and new ideas about the relationship between individuals and their rulers.",
+"It solely focused on theological debates and did not address political or social issues."
+],
+"answer": 2
+},
+{
+"prompt": "How did the rise of the Ottoman Empire in the 15th and 16th centuries affect trade and cultural exchange between Europe and Asia?",
+"options": [
+"It completely blocked all trade and cultural exchange between Europe and Asia.",
+"It facilitated greater access to Asian goods for Europeans and led to increased cultural exchange.",
+"It led to increased conflict and competition over trade routes, but also facilitated the exchange of ideas and technologies.",
+"It had no impact on trade or cultural exchange, as the Ottoman Empire was primarily focused on internal affairs."
+],
+"answer": 2
+},
+{
+"prompt": "What were the primary motivations behind European exploration and colonization in the Americas during the 15th-18th centuries?",
+"options": [
+"Solely the desire to spread Christianity to indigenous populations.",
+"Primarily driven by scientific curiosity and the desire to map the world.",
+"A complex mix of economic, political, and religious factors, including the pursuit of wealth, power, and religious conversion.",
+"Driven by a need to find new lands to accommodate Europe's growing population."
+],
+"answer": 2
+},
+{
+"prompt": "How did the introduction of new crops and animals through the Columbian Exchange impact agricultural practices and food supplies in both the Americas and Europe?",
+"options": [
+"It led to a decline in agricultural productivity and reduced food supplies in both regions.",
+"It had no significant impact on agricultural practices or food supplies.",
+"It diversified agricultural practices, increased food supplies, and supported population growth in both regions, although with varying consequences.",
+"It only benefited Europe, while the Americas experienced agricultural decline."
+],
+"answer": 2
+},
+{
+"prompt": "In what ways did the expansion of maritime trade networks during the period 1450-1750 contribute to the growth of commercial centers and urban areas?",
+"options": [
+"It led to the decline of existing commercial centers and urban areas.",
+"It had no significant impact on the growth of commercial centers or urban areas.",
+"It facilitated the exchange of goods, ideas, and people, leading to the growth of existing centers and the emergence of new ones.",
+"It solely benefited rural areas, as trade networks bypassed urban centers."
+],
+"answer": 2
+},
+{
+"prompt": "How did the development and spread of gunpowder technology affect military strategies and state power during the period 1450-1750?",
+"options": [
+"Gunpowder technology had no significant impact on military strategies or state power.",
+"It led to a decline in state power, as gunpowder weapons were easily accessible to all.",
+"It revolutionized warfare, enabling states with access to gunpowder weapons to expand their territories and consolidate power.",
+"It primarily benefited non-state actors, who used gunpowder weapons to challenge state authority."
+],
+"answer": 2
+},
+{
+"prompt": "What role did religious syncretism play in the spread of Christianity and other religions during the period 1450-1750?",
+"options": [
+"Religious syncretism hindered the spread of religions by diluting their core beliefs.",
+"Religious syncretism had no significant impact on the spread of religions.",
+"Religious syncretism facilitated the spread of religions by blending indigenous beliefs with new religious traditions.",
+"Religious syncretism solely led to the decline of traditional religious practices."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the effects of the Silver Trade on the global economy during the 16th and 17th centuries. How did the flow of silver from the Americas to Europe and Asia reshape economic systems and power dynamics?",
+"options": [
+"The Silver Trade had minimal impact on global economic systems.",
+"It led to economic decline in both the Americas and Asia.",
+"It fueled European mercantilism, facilitated trade with Asia, and led to inflation and social changes in various regions.",
+"It solely benefited the Americas, leading to their economic dominance."
+],
+"answer": 2
+},
+{
+"prompt": "Compare and contrast the methods used by different European powers (e.g., Spain, Portugal, England, France) to establish and maintain their colonial empires in the Americas. How did their approaches differ in terms of governance, economic exploitation, and interactions with indigenous populations?",
+"options": [
+"All European powers used identical methods for colonial expansion.",
+"European powers had no interactions with indigenous populations.",
+"Each power employed distinct strategies based on their political, economic, and religious goals, leading to diverse colonial experiences.",
+"Colonial governance was solely based on principles of equality and mutual respect."
+],
+"answer": 2
+},
+{
+"prompt": "Assess the impact of the Atlantic slave trade on West African societies during the period 1450-1750. How did the trade in enslaved people affect demographic patterns, political structures, and economic development in the region?",
+"options": [
+"The Atlantic slave trade had no impact on West African societies.",
+"It led to economic prosperity and political stability in West Africa.",
+"It caused significant demographic losses, increased warfare, and hindered economic development in West Africa.",
+"West African societies actively encouraged and benefited from the slave trade."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the role of technological innovations in facilitating European exploration and expansion during the 15th and 16th centuries. How did advancements in shipbuilding, navigation, and weaponry contribute to the establishment of maritime empires?",
+"options": [
+"Technological innovations played a minimal role in European exploration.",
+"European exploration was solely driven by religious motivations.",
+"Advancements in technology were critical in enabling long-distance voyages, conquering new territories, and establishing trade networks.",
+"Technological innovations were primarily developed by non-European societies."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of the Scientific Revolution in Europe during the 16th and 17th centuries. How did new scientific discoveries and methods challenge traditional beliefs and contribute to broader intellectual and social changes?",
+"options": [
+"The Scientific Revolution had no impact on European society.",
+"It reinforced traditional beliefs and hindered intellectual progress.",
+"It led to new ways of thinking about the natural world, challenged religious dogma, and contributed to the Enlightenment.",
+"Scientific discoveries were solely driven by religious motivations."
+],
+"answer": 2
+},
+{
+"prompt": "In what ways did the Mughal Empire's policies under Akbar promote religious tolerance and cultural synthesis in South Asia? What were the long-term effects of these policies on the empire's stability and social harmony?",
+"options": [
+"Akbar's policies led to religious conflict and social unrest.",
+"The Mughal Empire did not practice religious tolerance.",
+"Akbar's policies fostered a diverse and inclusive society, but also faced challenges from religious conservatives.",
+"Religious tolerance had no impact on the Mughal Empire's stability."
+],
+"answer": 2
+},
+{
+"prompt": "How did the Qing Dynasty's policies towards trade and foreign relations in the 18th century reflect a desire to maintain control and limit external influence? What were the consequences of these policies for China's economic and technological development?",
+"options": [
+"The Qing Dynasty encouraged unrestricted trade with foreign powers.",
+"China had no interest in foreign relations during the Qing Dynasty.",
+"The Qing Dynasty's restrictive trade policies limited foreign influence but also hindered China's economic and technological progress.",
+"China became the world's leading economic power due to its open trade policies."
+],
+"answer": 2
+},
+{
+"prompt": "Assess the impact of the Enlightenment on political thought and revolutionary movements in the Americas and Europe during the late 18th century. How did Enlightenment ideas about natural rights, popular sovereignty, and limited government influence the American and French Revolutions?",
+"options": [
+"The Enlightenment had no impact on political thought or revolutions.",
+"Revolutions were solely driven by economic factors.",
+"Enlightenment ideas provided intellectual justifications for revolution and inspired new forms of government based on individual rights and democratic principles.",
+"Enlightenment ideas were used to justify authoritarian rule."
+],
+"answer": 2
+},
+{
+"prompt": "Compare and contrast the causes and outcomes of the American and French Revolutions. In what ways were these revolutions similar or different in terms of their social, political, and economic goals?",
+"options": [
+"The American and French Revolutions had identical causes and outcomes.",
+"Revolutions had no impact on social, political, or economic systems.",
+"Both revolutions sought to overthrow existing power structures, but they differed in their specific goals and the extent of social transformation they achieved.",
+"Revolutions solely led to the rise of dictatorships."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the role of nationalism in shaping political boundaries and conflicts during the 19th century. How did nationalist movements contribute to the unification of Italy and Germany, as well as to tensions and conflicts in other parts of Europe?",
+"options": [
+"Nationalism had no impact on political boundaries or conflicts.",
+"Nationalism solely promoted peace and cooperation among nations.",
+"Nationalism served as a unifying force in some regions while also fueling tensions and conflicts in others, leading to both nation-building and fragmentation.",
+"Nationalism solely led to the creation of empires."
+],
+"answer": 2
+},
+{
+"prompt": "How did the Haitian Revolution differ from other independence movements in the Americas, particularly in terms of its social and racial dynamics?",
+"options": [
+"The Haitian Revolution was identical to other independence movements.",
+"Race played no role in independence movements.",
+"The Haitian Revolution was unique in its focus on ending slavery and achieving equality for people of African descent.",
+"The Haitian Revolution was solely driven by economic grievances."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the long-term effects of the Industrial Revolution on global economic and social structures. How did industrialization transform patterns of production, urbanization, and social class, and what were its environmental consequences?",
+"options": [
+"The Industrial Revolution had no impact on global economic or social structures.",
+"Industrialization solely benefited the environment.",
+"Industrialization led to unprecedented economic growth and social change, but also created new forms of inequality and environmental degradation.",
+"Industrialization solely led to the decline of cities."
+],
+"answer": 2
+},
+{
+"prompt": "Compare and contrast the processes of industrialization in different regions of the world, such as Europe, the United States, and Japan. What factors contributed to their varying rates of industrial growth and their different approaches to economic development?",
+"options": [
+"Industrialization occurred identically in all regions of the world.",
+"Economic development was solely determined by natural resources.",
+"Different regions experienced industrialization in distinct ways due to factors such as government policies, access to resources, and cultural attitudes.",
+"Industrialization solely led to the decline of traditional industries."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the impact of imperialism on colonized societies in Africa and Asia during the 19th and early 20th centuries. How did European colonization affect political systems, economic structures, and cultural identities in these regions?",
+"options": [
+"Imperialism had no impact on colonized societies.",
+"Colonization solely benefited colonized societies.",
+"Imperialism led to political subjugation, economic exploitation, and cultural disruption in colonized societies.",
+"Colonization solely led to the spread of democracy."
+],
+"answer": 2
+},
+{
+"prompt": "How did the Opium Wars between China and Great Britain in the mid-19th century reflect broader patterns of unequal power and economic exploitation in the age of imperialism?",
+"options": [
+"The Opium Wars had no impact on China or Great Britain.",
+"The Opium Wars demonstrated China's military superiority.",
+"The Opium Wars exposed China's vulnerability to Western powers and led to unequal treaties that favored British economic interests.",
+"The Opium Wars solely benefited China's economy."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of World War I. How did factors such as nationalism, imperialism, and alliance systems contribute to the outbreak of the war, and what were its long-term effects on the global political order?",
+"options": [
+"World War I had no significant causes or consequences.",
+"World War I solely led to peace and stability.",
+"World War I was caused by a complex interplay of factors and resulted in widespread death, destruction, and political upheaval.",
+"World War I solely benefited the economies of all nations involved."
+],
+"answer": 2
+},
+{
+"prompt": "Compare and contrast the Russian Revolution of 1917 with other revolutionary movements of the 20th century. What made the Russian Revolution unique in terms of its ideology, leadership, and long-term consequences?",
+"options": [
+"The Russian Revolution was identical to other revolutions.",
+"Revolutions had no impact on political systems.",
+"The Russian Revolution was unique in its communist ideology and its establishment of a totalitarian regime.",
+"Revolutions solely led to the spread of democracy."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the impact of the Great Depression on global economic and political systems during the 1930s. How did the economic crisis contribute to the rise of extremist ideologies and the outbreak of World War II?",
+"options": [
+"The Great Depression had no impact on global systems.",
+"The Great Depression solely led to economic prosperity.",
+"The Great Depression exacerbated social tensions, undermined democratic institutions, and contributed to the rise of fascism and militarism.",
+"The Great Depression solely benefited the working class."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of World War II. How did factors such as unresolved grievances from World War I, aggressive expansionism, and ideological conflict contribute to the outbreak of the war, and what were its long-term effects on the global balance of power?",
+"options": [
+"World War II had no significant causes or consequences.",
+"World War II solely led to peace and cooperation.",
+"World War II was caused by a combination of factors and resulted in immense human suffering, the reshaping of political boundaries, and the beginning of the Cold War.",
+"World War II solely benefited the economies of all nations involved."
+],
+"answer": 2
+},
+{
+"prompt": "In what ways did the Cold War shape global politics and influence conflicts in various regions of the world during the second half of the 20th century?",
+"options": [
+"The Cold War had no impact on global politics.",
+"The Cold War solely promoted peace and cooperation.",
+"The Cold War led to a bipolar world order, proxy wars, and the constant threat of nuclear annihilation.",
+"The Cold War solely benefited developing nations."
+],
+"answer": 2
+},
+{
+"prompt": "How did decolonization movements in Africa and Asia transform the global political landscape after World War II? What challenges did newly independent nations face in terms of economic development, political stability, and social cohesion?",
+"options": [
+"Decolonization had no impact on the global political landscape.",
+"Decolonization solely led to economic prosperity and political stability.",
+"Decolonization led to the creation of new nations but also presented numerous challenges related to governance, development, and social divisions.",
+"Decolonization solely benefited former colonial powers."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of the collapse of the Soviet Union in 1991. How did internal weaknesses, economic stagnation, and political reforms contribute to the disintegration of the Soviet empire, and what were its long-term effects on Russia and the world?",
+"options": [
+"The Soviet Union never collapsed.",
+"The collapse of the Soviet Union solely led to economic prosperity and political stability.",
+"The collapse of the Soviet Union was caused by a combination of factors and resulted in significant political and economic changes in Russia and the world.",
+"The collapse of the Soviet Union solely benefited the United States."
+],
+"answer": 2
+},
+{
+"prompt": "In what ways has globalization reshaped economic, cultural, and political interactions in the late 20th and early 21st centuries? What are the benefits and drawbacks of increased global interconnectedness?",
+"options": [
+"Globalization has had no impact on economic, cultural, or political interactions.",
+"Globalization solely benefits all nations equally.",
+"Globalization has led to increased economic integration, cultural exchange, and political cooperation, but also to concerns about inequality, cultural homogenization, and loss of national sovereignty.",
+"Globalization solely benefits multinational corporations."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the role of international organizations such as the United Nations and the World Trade Organization in addressing global challenges such as poverty, conflict, and environmental degradation. What are the strengths and limitations of these organizations?",
+"options": [
+"International organizations play no role in addressing global challenges.",
+"International organizations solely solve all global problems.",
+"International organizations provide forums for cooperation and address global issues, but they also face challenges related to funding, enforcement, and political influence.",
+"International organizations solely benefit wealthy nations."
+],
+"answer": 2
+},
+{
+"prompt": "How have technological advancements in communication and transportation transformed patterns of migration and cultural exchange in the modern world?",
+"options": [
+"Technology has had no impact on migration or cultural exchange.",
+"Technology solely promotes cultural homogenization.",
+"Technological advancements have facilitated greater mobility and interconnectedness, leading to increased migration and cultural exchange.",
+"Technology solely leads to the decline of traditional cultures."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of environmental degradation and climate change in the 21st century. How are human activities impacting the environment, and what are the potential social, economic, and political ramifications of these changes?",
+"options": [
+"Environmental degradation and climate change are not real problems.",
+"Environmental problems solely affect wealthy nations.",
+"Human activities are contributing to environmental degradation and climate change, which could have severe consequences for societies and ecosystems.",
+"Technological advancements will solely solve all environmental problems."
+],
+"answer": 2
+},
+{
+"prompt": "Compare and contrast different approaches to economic development in the developing world. What factors have contributed to the success or failure of various development strategies?",
+"options": [
+"All developing nations follow identical economic development strategies.",
+"Economic development is solely determined by natural resources.",
+"Different development strategies have had varying degrees of success due to factors such as government policies, access to resources, and social conditions.",
+"Economic development solely benefits wealthy nations."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the impact of terrorism and political violence on global security and international relations in the 21st century. How have terrorist groups and states used violence to achieve their goals, and what are the challenges of combating terrorism?",
+"options": [
+"Terrorism and political violence have no impact on global security.",
+"Terrorism is solely caused by poverty.",
+"Terrorism and political violence pose significant threats to global security and require complex strategies to address their root causes and prevent attacks.",
+"Military force solely solves the problem of terrorism."
+],
+"answer": 2
+},
+{
+"prompt": "How has the rise of China as a global economic and political power reshaped the international order? What are the potential opportunities and challenges associated with China's growing influence?",
+"options": [
+"China has not risen as a global power.",
+"China's rise solely benefits all nations equally.",
+"China's rise presents both opportunities for cooperation and challenges related to trade, security, and human rights.",
+"China's rise solely threatens the United States."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of demographic shifts such as aging populations and migration patterns in different regions of the world. How are these demographic trends impacting social welfare systems, labor markets, and cultural identities?",
+"options": [
+"Demographic shifts have no significant consequences.",
+"Demographic shifts solely benefit all nations equally.",
+"Demographic shifts are impacting social welfare systems, labor markets, and cultural identities in complex ways that require policy responses.",
+"Demographic shifts solely lead to social conflict."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the challenges and opportunities associated with increasing access to information and communication technologies in the developing world. How can technology be used to promote education, economic development, and social inclusion?",
+"options": [
+"Technology has no impact on the developing world.",
+"Technology solely solves all problems in the developing world.",
+"Technology can be a powerful tool for development, but it also presents challenges related to access, affordability, and digital literacy.",
+"Technology solely leads to cultural homogenization."
+],
+"answer": 2
+},
+{
+"prompt": "In what ways are global health challenges such as pandemics, chronic diseases, and healthcare disparities shaping international relations and development policies?",
+"options": [
+"Global health challenges have no impact on international relations.",
+"Global health challenges are solely caused by poverty.",
+"Global health challenges require international cooperation and have significant implications for development policies and resource allocation.",
+"Global health challenges solely affect developing nations."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of growing income inequality within and between nations. How is inequality impacting social cohesion, political stability, and economic growth?",
+"options": [
+"Income inequality is not a significant problem.",
+"Income inequality solely benefits all nations equally.",
+"Income inequality is increasing in many parts of the world and has negative consequences for social cohesion, political stability, and economic growth.",
+"Income inequality solely leads to social mobility."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the role of social movements and civil society organizations in advocating for human rights, social justice, and environmental protection in the 21st century. What are the strategies and challenges of these movements?",
+"options": [
+"Social movements and civil society organizations have no impact.",
+"Social movements solely promote violence and instability.",
+"Social movements and civil society organizations play an important role in advocating for positive change, but they also face challenges related to funding, repression, and political influence.",
+"Social movements solely benefit marginalized groups."
+],
+"answer": 2
+},
+{
+"prompt": "How is the spread of democratic values and institutions impacting political systems and governance in different regions of the world? What are the challenges and limitations of democratization?",
+"options": [
+"Democracy has no impact on political systems.",
+"Democracy solely solves all political problems.",
+"Democratization is occurring in many parts of the world, but it also faces challenges related to corruption, instability, and cultural resistance.",
+"Democracy solely benefits Western nations."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the causes and consequences of armed conflicts and humanitarian crises in the 21st century. How are these conflicts impacting civilian populations, and what are the challenges of providing humanitarian assistance and promoting peace?",
+"options": [
+"Armed conflicts and humanitarian crises have no impact.",
+"Armed conflicts solely lead to economic prosperity.",
+"Armed conflicts and humanitarian crises are causing immense suffering and require coordinated international efforts to provide assistance and promote peace.",
+"Military force solely solves the problem of armed conflict."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the impact of cultural exchange and hybridization on global identities and social relations. How are cultural interactions shaping individual and collective identities, and what are the challenges of maintaining cultural diversity?",
+"options": [
+"Cultural exchange has no impact on global identities.",
+"Cultural exchange solely promotes cultural homogenization.",
+"Cultural exchange is leading to both the blending of cultures and the preservation of cultural diversity, but it also presents challenges related to cultural appropriation and identity politics.",
+"Cultural exchange solely benefits dominant cultures."
+],
+"answer": 2
+},
+{
+"prompt": "How is the growing global population impacting resource availability, environmental sustainability, and social development? What are the potential consequences of continued population growth?",
+"options": [
+"Global population growth is not a concern.",
+"Global population growth solely benefits all nations equally.",
+"Global population growth is putting strain on resources and the environment and has implications for social development.",
+"Technological advancements will solely solve all problems related to population growth."
+],
+"answer": 2
+},
+{
+"prompt": "Analyze the role of education in promoting social mobility, economic development, and global citizenship. What are the challenges of ensuring access to quality education for all?",
+"options": [
+"Education has no impact on social mobility or economic development.",
+"Education solely solves all social and economic problems.",
+"Education is a critical tool for promoting positive change, but it also faces challenges related to funding, equity, and quality.",
+"Education solely benefits wealthy nations."
+],
+"answer": 2
+},
+{
+"prompt": "Evaluate the impact of artificial intelligence and automation on labor markets, economic productivity, and social inequality. How are these technologies transforming the nature of work?",
+"options": [
+"Artificial intelligence and automation will have no impact.",
+"Artificial intelligence and automation solely benefit all nations equally.",
+"Artificial intelligence and automation are transforming labor markets and economic productivity, but they also raise concerns about job displacement and social inequality.",
+"Technological advancements will solely solve all economic problems."
+],
+"answer": 2
+}
 ]
