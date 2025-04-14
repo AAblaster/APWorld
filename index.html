@@ -3,15 +3,36 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>AP World MCQ Review</title>
+  <title>AP World Boss Battle</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-  <div class="container">
-    <h1>AP World History Review</h1>
-    <button onclick="loadQuestions()">Start Quiz</button>
-    <div id="quiz"></div>
+  <div class="game-container">
+    <div class="header">
+      <h1>⚔️ AP World Boss Battle ⚔️</h1>
+      <div id="timer">Time Left: 60</div>
+    </div>
+
+    <div class="boss-section">
+      <img src="boss.png" alt="Boss" id="boss-img" />
+      <div id="boss-health-bar">
+        <div id="boss-health"></div>
+      </div>
+      <div id="boss-dialogue">Prepare to fail!</div>
+    </div>
+
+    <div id="question-box">
+      <h2 id="question"></h2>
+      <div id="options"></div>
+    </div>
+
+    <div id="game-over" class="hidden">
+      <img src="gameover.png" alt="Game Over" />
+      <h2>You’ve run out of time. The AP World boss has defeated you.</h2>
+      <p>Boss Health Remaining: <span id="health-left"></span>%</p>
+    </div>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
